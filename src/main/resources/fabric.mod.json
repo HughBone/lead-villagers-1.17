@@ -3,10 +3,10 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Lead the Villagers",
+  "description": "Lead the Villagers",
   "authors": [
-    "Me!"
+    "HughBone"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,7 +19,6 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
     ]
   },
   "mixins": [
