@@ -4,9 +4,9 @@
   "package": "com.hughbone.leadthevillagers.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
+    "MerchantEntityMixin"
   ],
   "client": [
-    "MerchantEntityMixin"
   ],
   "injectors": {
     "defaultRequire": 1
